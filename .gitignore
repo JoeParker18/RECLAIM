@@ -1,0 +1,13 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+# CAD / Office lock + temp files
+~$*
+*.bak
+*.SLDBAK
+# OS junk
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
